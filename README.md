@@ -6,7 +6,7 @@
 
   <p align="center">
     <br />
-    <a href="#">View Demo</a>
+    <a href="#">COLDBLOX</a>
   </p>
 </div>
 
@@ -22,7 +22,7 @@
     - [ ] Badges
     - [ ] News
     - [ ] Help
-    - [ ] My Roblox
+    - [ ] My COLDBLOX
 - [x] Backend
     - [x] Maintenance mode
     - [ ] Forums post
@@ -34,12 +34,3 @@
     - [ ] Bcrypt hash
     - [x] Database login
 - [ ] Cleaning source
-
-
-# How can I setup this to my own website?
-
-Put everythings in your htdocs folder and rename every "htaccess" to ".htaccess" to make .aspx working like a php file (to make it real old website with same extension and same name), enjoy using it!
-
-Default login: <br>
-username -> Administrator<br>
-password -> adminPasswd01
