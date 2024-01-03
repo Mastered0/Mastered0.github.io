@@ -6,31 +6,17 @@
 
   <p align="center">
     <br />
-    <a href="#">COLDBLOX</a>
+    <a href="Games">Games</a>
   </p>
 </div>
 
-## Roadmap
+## How do i play this revival?
 
-- [x] Adding frontend page
-    - [x] Download
-    - [x] Forgot password
-    - [x] Games
-    - [x] Sign up
-    - [x] Login
-    - [ ] Forum
-    - [ ] Badges
-    - [ ] News
-    - [ ] Help
-    - [ ] My COLDBLOX
-- [x] Backend
-    - [x] Maintenance mode
-    - [ ] Forums post
-    - [ ] Profile page
-    - [x] Login
-    - [ ] Sign up 
-    - [ ] Admin panel
-    - [ ] Cookies
-    - [ ] Bcrypt hash
-    - [x] Database login
-- [ ] Cleaning source
+### Join discord server: https://discord.gg/vD67cVg6tX , then ask me to run a server.
+### Games that available: Natural Disasters Survival, The Mega Fun and Colorful Obby, Disaster Hotel and over 30+ games.
+
+
+##### COLDBLOX, "A Good Online Toy", characters, logos, names, and all related indicia are trademarks of COLDBLOX Corporation, ©2023. Patents pending.
+##### COLDBLOX is not affliated with Lego, ROBLOX, MegaBloks, Bionicle, Pokemon, Nintendo, Lincoln Logs, Yu Gi Oh, K'nex, Tinkertoys, Erector Set, or the Pirates of the Caribbean. ARrrr!
+##### Use of this revival signifies your acceptance of the Terms and Conditions.
+##### Based off of Early 2009
